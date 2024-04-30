@@ -10,4 +10,6 @@ pinned: false
 
 # Sustainable-Predictive-Maintenance
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+## Demo
+https://huggingface.co/spaces/DarkHUG/deployment_space
+
